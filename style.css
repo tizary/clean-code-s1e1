@@ -22,8 +22,10 @@ body {
 }
 
 @media (max-width:768px) {
+
 .preview { text-align: center;
 }
+
 }
 .app {
   display: block;
